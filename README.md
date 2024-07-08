@@ -29,19 +29,3 @@ python categorize_transactions.py
 ```
 
 4. Once the script completes execution, you will find a new CSV file named `transactions_categorized.csv` with categorized transactions.
-
-## Customization
-
-- Adjust the batch size in the `index_list` to optimize processing based on your dataset size.
-- Modify the categorization rules in the code to suit your specific needs.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit issues or pull requests to suggest improvements or report bugs.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-Feel free to adjust the content to fit your project's specifics!
